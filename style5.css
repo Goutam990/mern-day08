@@ -1,0 +1,37 @@
+.boxA_initial {
+    width: 12%;
+    height: 100px;
+    background-color: yellowgreen;
+    
+    position: relative;
+    
+}
+
+.boxB_initial{
+    width: 12%;
+    height: 100px;
+    background-color: green;
+    border: black solid;
+
+    position: relative;
+    
+    margin: 0;
+    bottom: 60px;
+    
+    
+}
+
+/* Final  */
+
+.boxA_Final{
+    width: 12%;
+    height: 100px;
+    background-color: yellowgreen;
+    border: black solid;
+}
+
+.boxB_Final{
+    width: 12%;
+    height: 100px;
+    background-color: green;
+}
